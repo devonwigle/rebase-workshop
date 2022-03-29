@@ -31,9 +31,10 @@ INSTALLATION
 1. Eget duis at tellus at urna condimentum mattis pellentesque. 
 2. Ultricies mi quis hendrerit dolor magna. 
 3. Montes nascetur ridiculus mus mauris. 
-4. Accumsan tortor posuere ac ut consequat semper. 
+4. Grwfa ergahjkg  fjkewa
 5. Id semper risus in hendrerit gravida rutrum. 
 6. Vel facilisis volutpat est velit egestas dui id.
+7. fahluk ergahjukg ega
 
 CONFIGURATION
 -------------
